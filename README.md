@@ -9,4 +9,4 @@ E.G. for the workflow:
 
 **Output**: <code>['a', 'test', 'i', 'n', 'g', 'l', 'y']</code>
 
-After that, the user is asked if he wants to enter a new string. Answering ['yes', 'y', 'YES', 'Y'] reruns the program. Answering ['no', 'n', 'NO', 'N'] will terminate the program. Anything else will terminate the program as a 'not valid input'.~~~~
+After that, the user is asked if he wants to enter a new string. Answering <code>['yes', 'y', 'YES', 'Y']</code> reruns the program. Answering <code>['no', 'n', 'NO', 'N']</code> will terminate the program. Anything else will terminate the program as a 'not valid input'.
